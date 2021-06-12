@@ -1,0 +1,21 @@
+
+
+.tupoi{
+	transform: rotate(-45deg);
+	font-size: 50px;
+}
+
+
+
+.btn{
+	margin-top: 50px;
+}
+
+.hide{
+	display: none;
+}
+
+.men{
+	width: 350px;
+	height: 450px;
+}
